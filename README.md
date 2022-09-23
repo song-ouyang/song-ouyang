@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 [![Finn's github stats](https://github-readme-stats.vercel.app/api?username=song-ouyang&show_icons=true&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=song-ouyang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
